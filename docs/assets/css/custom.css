@@ -3,6 +3,9 @@
     text-align: center;
 }
 
+.md-container {
+    max-width: 330px;
+}
 
 .md-typeset .admonition {
     max-width: 300px;
@@ -170,7 +173,6 @@ input.md-search__input {
 /* 内容区的颜色*/
 .md-content{
     background-color: #ffffff;
-    width: 300px;
 }
 
 [data-md-color-scheme="slate"] .md-content{
