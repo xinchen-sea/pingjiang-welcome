@@ -3,6 +3,12 @@
     text-align: center;
 }
 
+
+.md-typeset .admonition {
+    max-width: 300px;
+    margin: auto auto;
+}
+
 .text-box1 {
     border: 1px solid #000;
     padding: 10px;
