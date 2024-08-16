@@ -48,16 +48,15 @@
   }
 }
 
-/* 定义手写体
 @font-face {
     font-family: "Oxygen";
     src: url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap') format('woff2');
-}*/
+}
 
-/*:root {
+:root {
   --md-text-font: "JetBrains Mono", "LXGW WenKai Screen";
   --md-code-font: "JetBrains Mono";
-} */
+} 
 
 /* 自定义文字标题大小 */
 .md-typeset h1 {
