@@ -137,8 +137,8 @@
 
 === "过生日"
 
-    ![Image title](./a/hr.jpg){ width="350" }
-    ![Image title](./a/yx.png){ width="350" }
+    ![Image title](./a/hr.jpg){ width="135" }
+    ![Image title](./a/yx.png){ width="135" }
     
     <div style="text-align: center;">
     
@@ -148,8 +148,8 @@
 
 === "看日出"
 
-    ![Image title](./a/richu.jpg){ width="350" }
-    ![Image title](./a/richu1.jpg){ width="350" }
+    ![Image title](./a/richu.jpg){ width="135" }
+    ![Image title](./a/richu1.jpg){ width="135" }
     
     <div style="text-align: center;">
     
@@ -170,8 +170,8 @@
 === "轰趴、聚餐"
 
     ![Image title](./a/3.jpg)
-    ![Image title](./a/bzj.jpg){ width="350" }
-    ![Image title](./a/yecan.jpg){ width="350" }
+    ![Image title](./a/bzj.jpg){ width="135" }
+    ![Image title](./a/yecan.jpg){ width="135" }
     
     <div style="text-align: center;">
     
