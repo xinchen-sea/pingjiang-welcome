@@ -6,7 +6,6 @@
 
 ![Image title](./jiangjiang.png){ align=left width=25%}
 
-----
 
 <div class="text-box1">
 <p>那你偏要去<b>“评奖”</b>什么意思</p>
