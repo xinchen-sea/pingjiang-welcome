@@ -129,14 +129,6 @@ extra:
     - icon: fontawesome/solid/house
       link: https://xinchen-sea.github.io/
       
-  # 语言切换
-#  alternate:
-#    - name: English
-#      link: /en/
-#      lang: en
-#    - name: Chinese
-#      link: /zh/
-#      lang: zh
 
   tags:
     HTML5: html
@@ -155,13 +147,6 @@ plugins:
         - en
         - ja
       separator: '[\s\u200b\-]'
-  #- git-revision-date-localized:
-   #   shortcode_type: datetime
-    #  timezone: Asia/Shanghai
-  #    locale: zh
-  #    enable_creation_date: true
-  #    exclude:
-  #      - index.md
   - statistics:
       words_per_minute: 200
       codelines_per_minute: 80
@@ -217,55 +202,11 @@ markdown_extensions:
 
 # 自定义 css 扩展
 extra_css:
-  - 'assets/css/table.css'   # 表格设置
   - 'assets/css/custom.css'  # 外观设置
-  - 'assets/css/switch.css'  # 按钮设置
-  #- 'assets/css/shortcodes.css'  # 自定义设置(不知道为啥用不了)
-  - 'assets/css/fold_toc.css' # toc折叠
-  - 'assets/css/heti.css' # 中文排版样式
-  # - 'assets/css/counter.css' # 自定义标题顺序
-  - 'assets/css/galaxy.css'
 
-# 自定义 js 扩展
-extra_javascript:
-  - assets/js/mermaid.min.js
-  - assets/js/switch.js
-  - assets/js/click.js
-  - assets/js/titlechange.js
-  - assets/js/chase.js
-  - assets/js/mathjax.js
-  - assets/js/toc.js
-  - assets/js/heti.js
-  - assets/js/galaxy.js
-  - assets/js/canvas.js
-   # 支持数学公式，ref : https://squidfunk.github.io/mkdocs-material/reference/mathjax
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - 首页:
-     - index.md
-     - 设置: settings.md
-     - 调试页: testpage.md
-  - 学习记录:
-     - learning/index.md
-     - 驾校:
-       - learning/drivinglicense/index.md
-       - 科目一: learning/drivinglicense/object1.md
-       - 科目二、三: learning/drivinglicense/object2&3.md
-       - 科目四: learning/drivinglicense/object4.md
-  - 小作文:
-      - daily/index.md
-      - 大学生存指北: daily/guide.md
-      - 离合压不稳，练腿去: daily/7.22morning.md
-  - 备忘录:
-      - tools/index.md
-      - Markdown: tools/Markdown.md
-      - MkDocs: tools/mkdocs.md
-      - LaTex: tools/LaTex.md
-      - Obsidian: tools/Obsidian.md
-      - reveal.js: tools/reveal-js.md
-  - 酱酱小窝: jiangjiang.md
+  - 酱酱小窝: index.md
 
 
 
