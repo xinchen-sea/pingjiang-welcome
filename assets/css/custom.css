@@ -30,11 +30,6 @@
     text-align: left;
 }
 
-.admonition {
-    max-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 /* 获取屏幕宽度，以调整页面大小 */
 @media screen and (min-width: 960px) {
