@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-.md-container {
+.md-typeset .md-container .md-main .md-content {
     max-width: 330px;
 }
 
