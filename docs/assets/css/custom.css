@@ -170,6 +170,7 @@ input.md-search__input {
 /* 内容区的颜色*/
 .md-content{
     background-color: #ffffff;
+    width: 300px;
 }
 
 [data-md-color-scheme="slate"] .md-content{
