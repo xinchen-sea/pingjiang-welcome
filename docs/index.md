@@ -96,19 +96,19 @@
 === "1"
     
     <figure markdown="span">
-    ![Image title](./shouce01.png){ width="300" }
+    ![Image title](./shouce01.png){ width=80% }
     </fugure>
 
 === "2"
 
     <figure markdown="span">
-    ![Image title](./shouce02.png){ width="350" }
+    ![Image title](./shouce02.png){ width=80% }
     </fugure>
     
 === "3"
     
-    ![Image title](./shouce03.png){ width="350" }
-    ![Image title](./shouce04.png){ width="350" }
+    ![Image title](./shouce03.png){ width=80% }
+    ![Image title](./shouce04.png){ width=80% }
 
 <div style="text-align: center;">
 
@@ -138,8 +138,8 @@
 
 === "过生日"
 
-    ![Image title](./a/hr.jpg){ width="135" }
-    ![Image title](./a/yx.png){ width="135" }
+    ![Image title](./a/hr.jpg){ width=49% }
+    ![Image title](./a/yx.png){ width=49% }
     
     <div style="text-align: center;">
     
@@ -149,8 +149,8 @@
 
 === "看日出"
 
-    ![Image title](./a/richu.jpg){ width="135" }
-    ![Image title](./a/richu1.jpg){ width="135" }
+    ![Image title](./a/richu.jpg){ width=49% }
+    ![Image title](./a/richu1.jpg){ width=49% }
     
     <div style="text-align: center;">
     
@@ -171,8 +171,8 @@
 === "轰趴、聚餐"
 
     ![Image title](./a/3.jpg)
-    ![Image title](./a/bzj.jpg){ width="135" }
-    ![Image title](./a/yecan.jpg){ width="135" }
+    ![Image title](./a/bzj.jpg){ width=49% }
+    ![Image title](./a/yecan.jpg){ width=49% }
     
     <div style="text-align: center;">
     
