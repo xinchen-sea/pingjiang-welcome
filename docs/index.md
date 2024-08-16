@@ -55,7 +55,7 @@
 === "1"
 
     <figure markdown="span">
-      ![Image title](./zhuguan.png)
+      ![Image title](./a/zhuguan.png)
     </figure>
 
 === "2"
