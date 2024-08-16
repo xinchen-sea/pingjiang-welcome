@@ -3,6 +3,13 @@
     text-align: center;
 }
 
+@media only screen and (min-width: 421px) {
+  .md-content {
+  max-width: 420px; /* 将页面最大宽度设置为600像素，可以根据需要调整 */
+  margin: 0 auto;   /* 居中显示内容 */
+  padding: 10px;    /* 添加内边距以防止内容紧贴边框 */
+}
+}
 
 .md-typeset .admonition {
     max-width: 300px;
