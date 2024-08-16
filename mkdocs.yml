@@ -205,7 +205,8 @@ extra_css:
 
 
 nav:
-  - 酱酱小窝: index.md
+  - 酱酱小窝: 
+    - index.md
 
 
 
