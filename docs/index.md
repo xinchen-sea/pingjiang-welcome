@@ -2,7 +2,7 @@
 # 评奖评优服务部 | 拉起“酱酱”的圆手，一起守望优秀！
 
 
-![Image title](./jiangjiang.png){ align=left width="150"}
+![Image title](./jiangjiang.png){ align=left width="100"}
 
 <div class="text-box1">
 <h3>那你偏要去<b>“评奖”</b>什么意思</h3>
