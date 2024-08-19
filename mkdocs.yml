@@ -7,8 +7,8 @@ site_description: 欢迎来到酱酱小窝
 site_url: "https://github.com/评奖评优服务部纳新/"
 
 # repository(库) information
-repo_name: 'xinchen-sea/nonsense'
-repo_url: 'https://github.com/xinchen-sea/note'
+repo_name: 'xinchen-sea/评奖纳新'
+repo_url: 'https://github.com/xinchen-sea/pingjiang-welcome'
 
 # 代码操作
 edit_uri: edit/main/docs/
