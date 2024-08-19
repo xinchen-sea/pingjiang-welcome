@@ -114,17 +114,8 @@ extra:
     actions:
       - accept
       - manage
-  homepage: https://xinchen-sea.github.io/
-  #社交链接
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com
-    - icon: fontawesome/solid/rss
-      link: none
-    - icon: material/forum
-      link: https://www.cc98.org
-    - icon: fontawesome/solid/house
-      link: https://xinchen-sea.github.io/
+  homepage: https://xinchen-sea.github.io/pingjiang-welcome/
+
       
 
   tags:
