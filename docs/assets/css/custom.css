@@ -3,6 +3,13 @@
     text-align: center;
 }
 
+.text-container{
+    display: inline-flex;
+    justify-content: center;
+    width: 350px;
+    height: auto;
+}
+
 @media only screen and (min-width: 421px) {
   .md-content {
   max-width: 420px; /* 将页面最大宽度设置为600像素，可以根据需要调整 */
