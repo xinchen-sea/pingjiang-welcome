@@ -1,7 +1,7 @@
 
 
 #info(信息),truism(陈词滥调 /老生常谈 / 真理)
-site_name: 评奖评优服务部纳新
+site_name: chenxin-hub
 site_author: xinchen-sea
 site_description: 欢迎来到酱酱小窝
 site_url: "https://xinchen-sea.github.io/pingjiang-welcome/"
@@ -195,7 +195,7 @@ extra_css:
 
 nav:
   - 酱酱小窝: index.md
-#  - 浙大生活指北: zhibei.md
+  - 浙大生活指北: zhibei.md
 
 
 
