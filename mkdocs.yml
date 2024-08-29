@@ -197,7 +197,7 @@ extra_css:
 
 nav:
   - 酱酱小窝: index.md
-  - 浙大生活指北: zhibei.md
+#  - 浙大生活指北: zhibei.md
 
 
 
