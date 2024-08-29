@@ -6,7 +6,7 @@
 ### 抹平信息差
 在此之前，我还是抹平一下信息差，来你浙应该有的公众号：
 <div class="text-container">
-  <ul>
+<ul>
 	<li>浙大官微</li>
 	<li>本科生院</li>
 	<li>求是学院</li>
@@ -19,22 +19,19 @@
 	<li>浙江大学图书馆</li>
 	<li>浙大学生公寓管理服务中心</li>
 	<li>三大学园、学院的公众号</li>
-  </ul></div>
-  <div class="text-container">
-  <ul>
-  <li>ZJUCS 潮汕同乡会</li>
-  <li>CC 98</li>
-  <li>浙大青志</li>
-  <li>浙大校友总会</li>
-  <li>E志者EVA</li>
-  <li>浙大社会实践指导中心</li>
-  <li>彩虹人生</li>
-  <li>路老师的 nonsense</li>
-  <li>大声喧哗指南</li>
-  <li>全员光滑</li>
-  <li>二月十三</li>
-  <li>……更多的自己探索吧</li>
-  </ul></div>
+	<li>ZJUCS 潮汕同乡会</li>
+	<li>CC 98</li>
+	<li>浙大青志</li>
+	<li>浙大校友总会</li>
+	<li>E志者EVA</li>
+	<li>浙大社会实践指导中心</li>
+	<li>彩虹人生</li>
+	<li>路老师的 nonsense</li>
+	<li>大声喧哗指南</li>
+	<li>全员光滑</li>
+	<li>二月十三</li>
+	<li>……更多的自己探索吧</li>
+</ul></div>
 
 
 ## 华冠丽服：
