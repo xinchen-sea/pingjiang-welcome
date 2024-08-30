@@ -208,8 +208,9 @@
 </span>
 </div>
 
-
+<div style="text-align: center;">
 加入我们！
+</div>
 ![wenjaun](./wenjuan.jpg){width=99%}
 
 
